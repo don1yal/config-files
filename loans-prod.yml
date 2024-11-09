@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank cards related production APIs"
+  message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Baktugaliev Bakdaulet - Product Owner"
     email: "baktugalievbakdaulet@gmail.com"
