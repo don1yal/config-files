@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local QA APIs"
+  contactDetails:
+    name: "Ergali Olzhas - Developer"
+    email: "ergaliOlzhas@gmail.com"
+  onCallSupport:
+    - (555) 265-3765
+    - (555) 734-8371

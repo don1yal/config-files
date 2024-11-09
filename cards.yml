@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs"
+  contactDetails:
+    name: "Orynbek Daniyal - Developer"
+    email: "orynbekdaniyal@gmail.com"
+  onCallSupport:
+    - (555) 265-3765
+    - (555) 734-8371

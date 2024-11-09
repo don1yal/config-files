@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related APIs "
+  contactDetails:
+    name: "Orynbek Daniyal - Developer"
+    email: "Orynbekdanial8@gmail.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345

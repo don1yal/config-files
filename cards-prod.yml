@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to EazyBank cards related local PROD APIs"
+  contactDetails:
+    name: "Bakdaulet Baktugaliev - Product Owner"
+    email: "bakdauletBaktugaliev@gmail.com"
+  onCallSupport:
+    - (555) 265-3765
+    - (555) 734-8371

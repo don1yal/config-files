@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Baktygaliev Bakdaulet - Product Owner"
+    email: "baktygalievbakdaulet@gmail.com"
+  onCallSupport:
+    - (555) 392-4823
+    - (555) 203-0384
