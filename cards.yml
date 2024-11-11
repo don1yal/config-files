@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related hookdeck dkngd APIs"
+  message: "Welcome to EazyBank cards related hookdeck APIs"
   contactDetails:
     name: "Orynbek Daniyal - Developer"
     email: "orynbekdaniyal@gmail.com"
