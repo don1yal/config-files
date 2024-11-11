@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related hookdeck APIs"
+  message: "Welcome to EazyBank cards related hookdeck web APIs"
   contactDetails:
     name: "Orynbek Daniyal - Developer"
     email: "orynbekdaniyal@gmail.com"
