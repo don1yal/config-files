@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank Loans related local APIs"
+  message: "Welcome to EazyBank Loans related hoocdeck APIs"
   contactDetails:
     name: "Orynbek Daniyal - Developer"
     email: "orynbekdaniyal8@gmail.com"
