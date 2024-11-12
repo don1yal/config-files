@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 cards:
-  message: "Welcome to EazyBank cards related hoocdeck dem APIs"
+  message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "Bakdaulet Baktugaliev - Product Owner"
     email: "bakdauletBaktugaliev@gmail.com"
